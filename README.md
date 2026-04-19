@@ -25,9 +25,9 @@ I am a **Master of Technology (CSE)** student at **IIT Bhilai** specializing in 
 
 ### 🏆 Competitive Programming Matrix
 <div align="center">
-  <a href="https://leetcode.com/iamrupamroyy"><img src="https://img.shields.io/badge/LeetCode-Rating_1740+-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="https://codeforces.com/profile/iamrupamroyy"><img src="https://img.shields.io/badge/Codeforces-Rating_1642-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-  <a href="https://www.codechef.com/users/iamrupamroyy"><img src="https://img.shields.io/badge/CodeChef-Rating_1850-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  <a href="https://leetcode.com/iamrupamroyy"><img src="https://img.shields.io/badge/LeetCode-Rating_1740-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/iamrupamroyy"><img src="https://img.shields.io/badge/Codeforces-Rating_978-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/iamrupamroyy"><img src="https://img.shields.io/badge/CodeChef-Rating_1511-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 </div>
 
 ---

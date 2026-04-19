@@ -17,15 +17,15 @@
 ### 🔭 Professional Snapshot
 I am a **Master of Technology (CSE)** student at **IIT Bhilai** specializing in **High-Performance Systems** and **Graph Intelligence**. I focus on bridging the gap between low-level GPU acceleration and high-level AI orchestration.
 
-- 🎓 **Thesis:** Efficient Graph Coarsening for GNNs (CUDA-accelerated)
-- 🏢 **Role:** Placement Coordinator & Teaching Assistant @ IIT Bhilai
+- 🎓 **Degree:** Pursuing Master of Technology in CSE at IIT Bhilai
+- 🏢 **Thesis:** Efficient Graph Coarsening for GNNs (CUDA)
 - 🏆 **Merit:** GATE CS 2024: 98.87 Percentile (Top 1.1% of India)
 
 ---
 
 ### 🏆 Competitive Programming Matrix
 <div align="center">
-  <a href="https://leetcode.com/iamrupamroyy"><img src="https://img.shields.io/badge/LeetCode-Rating_1740+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://leetcode.com/iamrupamroyy"><img src="https://img.shields.io/badge/LeetCode-Rating_1740+-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
   <a href="https://codeforces.com/profile/iamrupamroyy"><img src="https://img.shields.io/badge/Codeforces-Rating_1642-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
   <a href="https://www.codechef.com/users/iamrupamroyy"><img src="https://img.shields.io/badge/CodeChef-Rating_1850-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 </div>
@@ -39,17 +39,17 @@ I am a **Master of Technology (CSE)** student at **IIT Bhilai** specializing in 
     <tr>
       <td width="50%">
         <b>High-Performance Computing (CUDA/C++)</b><br/>
-        <img src="https://geps.dev/progress/90?dangerColor=00F2FF&warningColor=00F2FF&successColor=00F2FF" width="300" />
+        <img src="https://geps.dev/progress/80?dangerColor=00F2FF&warningColor=00F2FF&successColor=00F2FF" width="300" />
       </td>
       <td width="50%">
         <b>AI & Multi-Agent Systems</b><br/>
-        <img src="https://geps.dev/progress/85?dangerColor=BD93F9&warningColor=BD93F9&successColor=BD93F9" width="300" />
+        <img src="https://geps.dev/progress/75?dangerColor=BD93F9&warningColor=BD93F9&successColor=BD93F9" width="300" />
       </td>
     </tr>
     <tr>
       <td width="50%">
         <b>Full-Stack Development (React/Node)</b><br/>
-        <img src="https://geps.dev/progress/80?dangerColor=50FA7B&warningColor=50FA7B&successColor=50FA7B" width="300" />
+        <img src="https://geps.dev/progress/90?dangerColor=50FA7B&warningColor=50FA7B&successColor=50FA7B" width="300" />
       </td>
       <td width="50%">
         <b>Data Structures & Algorithms</b><br/>
